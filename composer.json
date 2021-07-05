@@ -1,5 +1,7 @@
 {
     "name": "xcrone/laravel-fullcalendar",
+    "description": "Laravel 8 Calendar",
+    "license": "MIT",
     "authors": [{
         "name": "xcrone",
         "email": "48623158+xcrone@users.noreply.github.com"
