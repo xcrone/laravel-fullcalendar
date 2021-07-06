@@ -1,8 +1,6 @@
 # Laravel 8 Full Calendar Helper
 
-[![Latest Stable Version](https://poser.pugx.org/xcrone/laravel-fullcalendar/v/stable)](https://packagist.org/packages/xcrone/laravel-fullcalendar) [![Total Downloads](https://poser.pugx.org/xcrone/laravel-fullcalendar/downloads)](https://packagist.org/packages/xcrone/laravel-fullcalendar) [![Latest Unstable Version](https://poser.pugx.org/xcrone/laravel-fullcalendar/v/unstable)](https://packagist.org/packages/xcrone/laravel-fullcalendar) [![License](https://poser.pugx.org/xcrone/laravel-fullcalendar/license)](https://packagist.org/packages/xcrone/laravel-fullcalendar)
-
-***For Laravel 4.2: use the [laravel-4 branch](https://github.com/xcrone/laravel-fullcalendar/tree/laravel-4)***
+[![Latest Stable Version](http://poser.pugx.org/xcrone/laravel-fullcalendar/v)](https://packagist.org/packages/xcrone/laravel-fullcalendar) [![Total Downloads](http://poser.pugx.org/xcrone/laravel-fullcalendar/downloads)](https://packagist.org/packages/xcrone/laravel-fullcalendar) [![Latest Unstable Version](http://poser.pugx.org/xcrone/laravel-fullcalendar/v/unstable)](https://packagist.org/packages/xcrone/laravel-fullcalendar) [![License](http://poser.pugx.org/xcrone/laravel-fullcalendar/license)](https://packagist.org/packages/xcrone/laravel-fullcalendar)
 
 This is a simple helper package to make generating [http://fullcalendar.io](http://fullcalendar.io) in Laravel apps easier.
 
